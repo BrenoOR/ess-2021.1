@@ -25,11 +25,11 @@ WHEN I try to see the number of students on final exam
 THEN I see the number of students on final exam
 AND I see the total number of students
 AND I see the list "Students performance" with the names of the students on final exam 
-highlighted in yellow and a “Final Exam” message by the side
+highlighted in yellow and a "Final Exam" message by the side
 
 Scenario: Teacher tries to see the number of disapproved students on class
 WHEN I try to see the number of disapproved students
 THEN I see the number of disapproved students
 AND I see the total number of students
 AND I see the list "Students performance" with the names of the disapproved students highlighted 
-in red and a “Disapproved” message by the side
+in red and a "Disapproved" message by the side
